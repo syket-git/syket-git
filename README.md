@@ -1,4 +1,4 @@
-### Hi there, I'm Syket - aka [Syket Bhattachergee][website] 👋
+### Hi there, I'm Syket Bhattachergee
 
 ## I'm a Frontend Developer!!
 
