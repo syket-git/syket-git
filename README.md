@@ -7,7 +7,7 @@ I'm Syket, a Frontend Developer from <img src="https://image.flaticon.com/icons/
 
 - :hearts: &emsp;I enjoy programming and think in a different way 
 - :computer: &emsp;Most used line of code `console.log("hello world")` 
-- 🌐 &emsp;Visit my portfolio [SYKET.ME](https://syket.me)
+- 🌐 &emsp;Visit my portfolio [SYKET.ME](http://syket.me)
 - :e-mail: &emsp;How to reach me: syketweb@gmail.com
 
 <br />
