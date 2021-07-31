@@ -5,6 +5,11 @@ I'm Syket, a Frontend Developer from <img src="https://image.flaticon.com/icons/
 ### I'm a Frontend Developer!!
 
 - 🔭 I love to learn new things and have experience with new staff
+- :hearts: &emsp;I enjoy programming and sharing knowledge 
+- :computer: &emsp;Most used line of code `console.log("hello world")` 
+- 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.
+- :e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.
+- ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
 <br />
 
