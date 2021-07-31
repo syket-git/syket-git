@@ -4,6 +4,15 @@
 
 - 🔭 I love to learn new things and have experience with new staff
 
+<br />
+
+
+#### Github Stats
+
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=syket-git&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Syket Bhattachergee" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
