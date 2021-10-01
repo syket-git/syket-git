@@ -33,4 +33,6 @@ I'm Syket, a Frontend Developer from <img src="https://image.flaticon.com/icons/
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=syket-git&theme=blue-green)
 
+[![Visits Badge](https://badges.pufler.dev/visits/syket-git/syket-git)](https://github.com/syket-git)
+
 
