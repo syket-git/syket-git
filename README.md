@@ -1,6 +1,6 @@
 ## Hi there, I'm Syket Bhattachergee <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Syket, a Frontend Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh. I spend most of the time with coding. I always try to learn new things everyday and try to implement it own way. JavaScirpt is one of favourite technology, I feel comfortable to work with JS. 
+I'm Syket, a Frontend Developer from Bangladesh. I spend most of the time with coding. I always try to learn new things everyday and try to implement it own way. JavaScirpt is one of favourite technology, I feel comfortable to work with JS. 
 
 ### I'm a Frontend Developer!!
 
