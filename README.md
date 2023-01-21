@@ -1,8 +1,6 @@
 ## Hi there, I'm Syket Bhattachergee <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Syket, a Frontend Developer from Bangladesh. I spend most of the time with coding. I always try to learn new things everyday and try to implement it own way. JavaScirpt is one of favourite technology, I feel comfortable to work with JS. 
-
-### I'm a Frontend Developer!!
+"I am a Frontend Developer with a passion for Javascript and React. I have been working in the industry since 2018 and have a proven track record of delivering high-quality projects on time and within budget. My GitHub profile showcases my skills and experience in creating responsive and user-friendly interfaces. Take a look at my projects and feel free to connect with me to discuss potential collaborations."
 
 
 - :hearts: &emsp;I enjoy programming and think in a different way 
