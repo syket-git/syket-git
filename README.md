@@ -1,7 +1,21 @@
 ## Hi there, I'm Syket Bhattachergee <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 # 💫 About Me:
-Hello there! I'm a skilled front-end developer with a passion<br> for creating engaging and intuitive user interfaces. <br>With React JS, Next JS, JavaScript, and TypeScript expertise,<br>I have over 3 years of experience building responsive, <br>performant, and scalable web applications.<br>
+
+Hi, I’m Syket 👋 - a Frontend Engineer and content Creator.
+
+I love exploring core Engineering concepts across the Web, engaging with conferences, and podcasts 🎧, and consuming articles from various corners of the Internet.
+
+Get to know my skills and what I do in short. 👇
+
+I solve problems using Data Structures and Algorithms. (100+ problems on LeetCode, GeeksForGeeks and Coding Ninja)
+
+Technical Skills
+
+• Languages - JavaScript, TypeScript and C#
+• Web - React.js, Redux.js, Next.js, Webpack, Jest, GraphQL and Apollo
+• Tools - Docker, Git, MySQL and Hasura
+• Course Work - Data Structures, Algorithms, Object Oriented Programming (OOPs)
 
 
 ## 🌐 Socials:
