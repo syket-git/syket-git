@@ -2,20 +2,20 @@
 
 # 💫 About Me:
 
-Hi, I’m Syket 👋 - a Frontend Engineer and content Creator.
+Hi👋 I’m a Frontend Engineer and Content Creator.
 
 I love exploring core Engineering concepts across the Web, engaging with conferences, and podcasts 🎧, and consuming articles from various corners of the Internet.
 
 Get to know my skills and what I do in short. 👇
 
-I solve problems using Data Structures and Algorithms. (100+ problems on LeetCode, GeeksForGeeks and Coding Ninja)
+I solve problems using Data Structures and Algorithms. (100+ problems on LeetCode, GeeksForGeeks, and Coding Ninja)
 
-Technical Skills
+Technical Skills: 
 
-• Languages - JavaScript, TypeScript and C#
-• Web - React.js, Redux.js, Next.js, Webpack, Jest, GraphQL and Apollo
-• Tools - Docker, Git, MySQL and Hasura
-• Course Work - Data Structures, Algorithms, Object Oriented Programming (OOPs)
+• Languages - JavaScript, TypeScript, and C# <br/>
+• Web - React.js, Redux.js, Next.js, Webpack, Jest, GraphQL and Apollo <br/>
+• Tools - Docker, Git, MySQL, and Hasura <br/>
+• Course Work - Data Structures, Algorithms, Object Oriented Programming (OOPs) <br/>
 
 
 ## 🌐 Socials:
