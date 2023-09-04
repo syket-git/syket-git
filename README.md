@@ -22,15 +22,6 @@ Technical Skills:
 </p>
 
 
-## 📈 My GitHub Stats
-### GitHub Stars
-
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=syket-git&show_icons=true&theme=radical)
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syket-git&layout=compact)
-
 ### GitHub Streak
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syket-git&theme=highcontrast&hide_border=true" alt="atapas" />
