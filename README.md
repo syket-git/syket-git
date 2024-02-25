@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-Hi👋 I’m a Frontend Engineer and Content Creator.
+Hi👋 I’m a Frontend Engineer | Mobile App Developer | Content Creator.
 
 I love exploring core Engineering concepts across the Web, engaging with conferences, and podcasts 🎧, and consuming articles from various corners of the Internet.
 
@@ -14,6 +14,7 @@ Technical Skills:
 
 • Languages - JavaScript, TypeScript, and C# <br/>
 • Web - React.js, Redux.js, Next.js, Webpack, Jest, GraphQL and Apollo <br/>
+• Mobile App Development - React Native <br/>
 • Tools - Docker, Git, MySQL, and Hasura <br/>
 • Course Work - Data Structures, Algorithms, Object Oriented Programming (OOPs) <br/>
 
