@@ -115,19 +115,6 @@ const syket = {
 
 </div>
 
----
-
-### 🐍 Watch the Snake Eat My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syket-git/syket-git/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syket-git/syket-git/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/syket-git/syket-git/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
