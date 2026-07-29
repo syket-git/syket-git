@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=AI+Engineer+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+MCP;I+ship+LLM+features+that+survive+real+users;Eval-driven%2C+not+vibes-driven;5%2B+years+production+engineering+behind+every+agent" alt="Syket Bhattachergee" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer+%C2%B7+LangGraph+%C2%B7+RAG+%C2%B7+MCP;I+ship+LLM+features+that+survive+users;Eval-driven%2C+not+vibes-driven;5%2B+years+of+production+engineering" alt="Syket Bhattachergee" />
 
 **Syket Bhattachergee** · Chattogram, Bangladesh 🇧🇩
 
