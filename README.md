@@ -52,29 +52,6 @@ The two boxes most demos skip are the two I care about most: **the eval gate** a
 
 ---
 
-## Featured work
-
-> Replace these with your real repos — one line on *what it does*, one on *what it proves*, one *measured number*.
-
-| Project | What it is | The engineering signal |
-|---|---|---|
-| **[rag-eval-harness](#)** | Golden-set + LLM-judge harness with a CI regression gate | Compares 2 chunking strategies × 2 embedding models; faithfulness ↑ from `__%` to `__%` |
-| **[langgraph-support-agent](#)** | Multi-step support agent — lookups, refunds, escalation | Supervisor + parallel sub-agents, HIL approval before any write action |
-| **[mcp-toolkit](#)** | MCP server exposing scoped internal tools to Claude | Per-tool auth scoping, structured errors, replaces `__` bespoke integrations |
-| **[stream-ui-kit](#)** | Generative UI rendered from tool calls (Vercel AI SDK + RSC) | Token-by-token streaming, optimistic updates, inline citation UX |
-
-📌 *Pinned repos are ordered by relevance, not stars.*
-
----
-
-## Evaluation & observability
-
-Because a demo that works once isn't evidence.
-
-**RAGAS** (faithfulness · answer relevance · context precision) · **LangSmith** tracing & dataset curation · **Langfuse** / **Braintrust** harnesses · **promptfoo** for prompt regression in CI · planted-failure datasets · retrieval precision/recall @ k
-
----
-
 ## Stack
 
 **AI / LLM**
